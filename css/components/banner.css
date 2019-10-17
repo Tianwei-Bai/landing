@@ -1,0 +1,23 @@
+.banner{
+	background-image: linear-gradient(-225deg, rgba(0,0,0,0.8)0%, rgba(20,20,20,0.1)60%), url(../../images/background.png);
+    padding: 130px 0px;
+    background-size: cover;
+    background-position: center;
+    
+}
+
+
+	h1{
+	font-family: 'Indie Flower', cursive;
+	font-size: 48px;
+	font-weight: bold;
+	color: #20DA9B;
+
+}
+.banner p{
+	font-size: 18px;
+	font-weight: lighter;
+	color: #E9BC1B;
+	font-family: 'Alegreya', serif;
+	margin-bottom: 40px;
+}
